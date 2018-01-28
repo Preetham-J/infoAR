@@ -8,4 +8,4 @@ Using AR and IoT technology, we have designed an app that takes real-time sensor
 
 ### Screenshots
 
-[![pump](https://github.com/erictraaaan/infoAR/master/img/pump.png)](https://github.com/erictraaaan/infoAR/master/img/pump.png)
+[![pump](https://github.com/erictraaaan/infoAR/blob/master/img/motor.png)](https://github.com/erictraaaan/infoAR/blob/master/img/motor.png)
