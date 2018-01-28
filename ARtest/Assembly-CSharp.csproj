@@ -63,6 +63,7 @@
      <Compile Include="Assets\Scripts\ScrollDetailTexture.cs" />
      <Compile Include="Assets\Scripts\ShowSliderValue.cs" />
      <Compile Include="Assets\Scripts\TiltWindow.cs" />
+     <Compile Include="Assets\transformScript.cs" />
      <Compile Include="Assets\Vuforia\Scripts\DefaultInitializationErrorHandler.cs" />
      <Compile Include="Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs" />
      <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />

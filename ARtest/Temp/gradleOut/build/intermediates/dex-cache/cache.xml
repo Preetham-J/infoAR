@@ -3,12 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="/Users/erictran/.android/build-cache/82591cd2132ad1891562350b73c7ed59d4a487f6/output/jars/libs/VuforiaUnityPlayer.jar"
+        jar="/Users/erictran/.android/build-cache/66c5b8976bf813470ce3462b4d1941e529258feb/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="1e5c98f1d2f1973f9a08b7849f319bcb135fe8c3">
-        <dex dex="/Users/erictran/Documents/Projects/infoAR/ARtest/Temp/gradleOut/build/intermediates/pre-dexed/release/VuforiaUnityPlayer_e999c15f221d807b5e922c4f2cafb131077817fe.jar" />
+        sha1="e29373b760f2999cd878625efe4641edd156a3d0">
+        <dex dex="/Users/erictran/Documents/Projects/infoAR/ARtest/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_4b80b6e7f53ddf1ad5a1bf694918154936c9f202.jar" />
     </item>
     <item
         is-multidex="false"
@@ -21,21 +21,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/erictran/.android/build-cache/82591cd2132ad1891562350b73c7ed59d4a487f6/output/jars/libs/Vuforia.jar"
+        jar="/Users/erictran/.android/build-cache/66c5b8976bf813470ce3462b4d1941e529258feb/output/jars/libs/Vuforia.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
         sha1="53094572566d88f826439518bd3ff774b3ed36cb">
-        <dex dex="/Users/erictran/Documents/Projects/infoAR/ARtest/Temp/gradleOut/build/intermediates/pre-dexed/release/Vuforia_4a4981f660e52860a4587b874b46d6875b125d82.jar" />
+        <dex dex="/Users/erictran/Documents/Projects/infoAR/ARtest/Temp/gradleOut/build/intermediates/pre-dexed/release/Vuforia_e0fbd7624d8e875378235bdc20a5299aa1c7838e.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/erictran/.android/build-cache/82591cd2132ad1891562350b73c7ed59d4a487f6/output/jars/classes.jar"
+        jar="/Users/erictran/.android/build-cache/66c5b8976bf813470ce3462b4d1941e529258feb/output/jars/libs/VuforiaUnityPlayer.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="e29373b760f2999cd878625efe4641edd156a3d0">
-        <dex dex="/Users/erictran/Documents/Projects/infoAR/ARtest/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_71ec8eed7ad6088301552d75d299fd85f9110dd7.jar" />
+        sha1="1e5c98f1d2f1973f9a08b7849f319bcb135fe8c3">
+        <dex dex="/Users/erictran/Documents/Projects/infoAR/ARtest/Temp/gradleOut/build/intermediates/pre-dexed/release/VuforiaUnityPlayer_e1f11c88660910198a89d7b151293502aeb39dbf.jar" />
     </item>
 
 </items>
