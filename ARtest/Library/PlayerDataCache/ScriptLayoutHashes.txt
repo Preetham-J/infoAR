@@ -292,4 +292,5 @@ d2a2bd333db22f480a8589e167314ecc Vuforia.UnityExtensions.dll:Vuforia.UserDefined
 3d1b89310e77c34bc0c8d7132231345c Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 05524b8f659e7bfe5756d1335fec24ba Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
 15bea26698002c6c4a3087131232ce5c Vuforia.UnityExtensions.dll:Vuforia.WordBehaviour
-c2c15af83492724901a969971993b85b Assembly-CSharp.dll:.myScript
+693905fc3f81a522e1884af61dfeef7a Assembly-CSharp.dll:.myScript
+6d08c75e43bf364c467f0073aebfd2bf Assembly-CSharp.dll:.transformScript

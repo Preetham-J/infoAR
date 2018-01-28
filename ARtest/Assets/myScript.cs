@@ -5,6 +5,8 @@ using UnityEngine;
 public class myScript : MonoBehaviour {
 
 	public GameObject sign;
+	public GameObject oldSign;
+	public GameObject newSign;
 
 	// Use this for initialization
 	void Start () {
