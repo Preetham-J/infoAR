@@ -6,3 +6,6 @@ There's a lot inefficiencies in the workplace. Especially in a manufacturing or 
 Using AR and IoT technology, we have designed an app that takes real-time sensor data and displays it in augmented reality through the use of unique QR codes. This will improve worker efficiency and safety by displaying machine statistics, allowing quicker response times to failures and errors.
 
 
+### Screenshots
+
+[![pump](https://github.com/erictraaaan/infoAR/master/img/pump.png)](https://github.com/erictraaaan/infoAR/master/img/pump.png)
